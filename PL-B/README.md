@@ -3,3 +3,4 @@ The first few topics cover basic Racket programming since we need to introduce R
 
 简要的介绍是这个网址：https://docs.racket-lang.org/quick/index.html
 
+开始学习 我的最爱 -Racket- 语言。  哈哈
